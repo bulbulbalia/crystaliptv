@@ -1,4 +1,198 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="http://roarmediazone.com/tv/weblogo/31.jpg" group-title="Bangla",Gazi TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/107.jpg" group-title="Bangla",ATN Bangla
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Banglavision TV" tvg-logo="http://roarmediazone.com/tv/weblogo/120.jpg" group-title="Bangla",Banglavision TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="" group-title="Bangla",Channel 9
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="http://roarmediazone.com/tv/img/channel24.jpg" group-title="Bangla",Channel 24
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="http://roarmediazone.com/tv/weblogo/101.jpg" group-title="Bangla",Channel I
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC News" tvg-logo="http://roarmediazone.com/tv/weblogo/99.jpg" group-title="Bangla",DBC News
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="http://roarmediazone.com/tv/weblogo/68.jpg" group-title="Bangla",Deepto TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="http://roarmediazone.com/tv/weblogo/98.jpg" group-title="Bangla",Desh TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duronto TV" tvg-logo="http://roarmediazone.com/tv/weblogo/84.jpg" group-title="Bangla",Duronto TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV" tvg-logo="http://roarmediazone.com/tv/weblogo/88.jpg" group-title="Bangla",Ekattor TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="http://roarmediazone.com/tv/weblogo/67.jpg" group-title="Bangla",Independent TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="http://roarmediazone.com/tv/weblogo/61.jpg" group-title="Bangla",Jamuna TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="http://roarmediazone.com/tv/weblogo/70.jpg" group-title="Bangla",RTV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="http://roarmediazone.com/tv/weblogo/121.jpg" group-title="Bangla",SA TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ananda TV" tvg-logo="http://roarmediazone.com/tv/weblogo/85.jpg" group-title="Bangla",Ananda TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="http://roarmediazone.com/tv/weblogo/59.jpg" group-title="Bangla",Somoy TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News24" tvg-logo="http://roarmediazone.com/tv/weblogo/65.jpg" group-title="Bangla",News24
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla TV" tvg-logo="http://roarmediazone.com/tv/weblogo/106.jpg" group-title="Bangla",Bangla TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="http://roarmediazone.com/tv/weblogo/15.jpg" group-title="Sports",Sony Ten 1
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="http://roarmediazone.com/tv/weblogo/62.jpg" group-title="Sports",Sony Ten 2
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="http://roarmediazone.com/tv/weblogo/14.jpg" group-title="Sports",Sony Ten 3
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/22.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="Sony ESPN" tvg-logo="http://roarmediazone.com/tv/weblogo/57.jpg" group-title="Sports",Sony ESPN
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony SIX" tvg-logo="http://roarmediazone.com/tv/weblogo/16.jpg" group-title="Sports",Sony SIX
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="http://roarmediazone.com/tv/weblogo/89.jpg" group-title="Sports",Star Sports 1
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="http://roarmediazone.com/tv/weblogo/41.jpg" group-title="Sports",Star Sports 2
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/26.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="http://roarmediazone.com/tv/weblogo/13.jpg" group-title="Sports",Star Sports Select 1
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="http://roarmediazone.com/tv/weblogo/12.jpg" group-title="Sports",Star Sports Select 2
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE Bangla Cinema" tvg-logo="http://roarmediazone.com/tv/weblogo/72.jpg" group-title="Kolkata",ZEE Bangla Cinema
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="http://roarmediazone.com/tv/weblogo/90.jpg" group-title="Kolkata",Star Jalsha
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha Movies" tvg-logo="http://roarmediazone.com/tv/weblogo/125.jpg" group-title="Kolkata",Star Jalsha Movies
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Akaash Aath" tvg-logo="http://roarmediazone.com/tv/weblogo/109.jpg" group-title="Kolkata",Akaash Aath
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/72.jpg" group-title="Kolkata",Zee Bangla
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="http://roarmediazone.com/tv/weblogo/83.jpg" group-title="Documentary",Natgeo
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://roarmediazone.com/tv/weblogo/32.jpg" group-title="Hindi",Sony SAB
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY SET MAX" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="Hindi",SONY SET MAX
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="http://roarmediazone.com/tv/weblogo/19.jpg" group-title="Hindi",Sony TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="http://roarmediazone.com/tv/weblogo/02.jpg" group-title="Hindi",ZEE TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="http://roarmediazone.com/tv/weblogo/17.jpg" group-title="English",Sony Pix
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/41.m3u8
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="http://roarmediazone.com/tv/weblogo/116.jpg" group-title="English",HBO
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/42.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery HD" tvg-logo="http://roarmediazone.com/tv/weblogo/114.jpg" group-title="Documentary",Discovery HD
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://roarmediazone.com/tv/weblogo/23.jpg" group-title="Documentary",Sony BBC Earth HD
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="http://roarmediazone.com/tv/weblogo/74.jpg" group-title="Hindi",Movies Now
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee ETC" tvg-logo="http://roarmediazone.com/tv/weblogo/01.jpg" group-title="Music",Zee ETC
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="http://roarmediazone.com/tv/weblogo/97.jpg" group-title="Music",9xM
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="http://roarmediazone.com/tv/weblogo/108.jpg" group-title="Bangla",ATN NEWS
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="http://roarmediazone.com/tv/weblogo/77.jpg" group-title="Bangla",Mohona TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maasranga" tvg-logo="http://roarmediazone.com/tv/weblogo/78.jpg" group-title="Bangla",Maasranga
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="Bangla",BTV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="http://roarmediazone.com/tv/weblogo/111.jpg" group-title="Bangla",NTV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="nick" tvg-logo="" group-title="Bangla",nick
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="http://roarmediazone.com/tv/weblogo/96.jpg" group-title="Bangla",MY TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/56.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="http://roarmediazone.com/tv/weblogo/56.jpg" group-title="Music",Dhoom Music
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/86.jpg" group-title="Music",Gaan Bangla
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/58.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo="http://roarmediazone.com/tv/weblogo/110.jpg" group-title="Bangla",Nagorik TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="http://roarmediazone.com/tv/weblogo/03.jpg" group-title="Music",Zoom
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="http://roarmediazone.com/tv/weblogo/113.jpg" group-title="Bangla",Boishakhi TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo="http://roarmediazone.com/tv/weblogo/69.jpg" group-title="Bangla",Asian TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/62.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Islamic" tvg-logo="http://roarmediazone.com/tv/weblogo/94.jpg" group-title="Bangla",ATN Islamic
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushy TV" tvg-logo="http://roarmediazone.com/tv/weblogo/87.jpg" group-title="Bangla",Ekushy TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/100.jpg" group-title="Kolkata",Colors Bangla
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="http://roarmediazone.com/tv/weblogo/115.jpg" group-title="Hindi",Star Plus
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/67.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="http://roarmediazone.com/tv/weblogo/45.jpg" group-title="Hindi",Colors
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/68.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="http://roarmediazone.com/tv/weblogo/05.jpg" group-title="Hindi",Zee Cafe HD
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WilloW" tvg-logo="" group-title="Sports",WilloW
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="Sports",Sky Sports Cricket
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/71.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports MIX" tvg-logo="" group-title="Sports",Sky Sports MIX
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ptv Sports" tvg-logo="http://roarmediazone.com/tv/weblogo/92.jpg" group-title="Sports",Ptv Sports
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="And TV HD" tvg-logo="http://roarmediazone.com/tv/weblogo/44.jpg" group-title="Hindi",And TV HD
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="http://roarmediazone.com/tv/weblogo/73.jpg" group-title="Hindi",Star Gold
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="" group-title="Hindi",Zee Cinema
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="Hindi",Sony Max
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="And Flix" tvg-logo="http://roarmediazone.com/tv/weblogo/48.jpg" group-title="Hindi",And Flix
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://roarmediazone.com/tv/weblogo/54.jpg" group-title="Documentary",Cartoon Network
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Music" tvg-logo="" group-title="Bangla",ATN Music
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/82.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Makkah Live" tvg-logo="" group-title="Bangla",Makkah Live
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/83.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSb1MKImRa4-SmCTjyXoJI4Y8QjRw7Al5vwPLm02QdawCkT5pv" group-title="Bangla",BTV World
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW NEWS" tvg-logo="" group-title="English",DW NEWS
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movie Bangla TV" tvg-logo="" group-title="Bangla",Movie Bangla TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Dawah" tvg-logo="" group-title="Bangla",Al Dawah
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="" group-title="Bangla",Sangsad TV
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="" group-title="English",Al Jazeera
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="" group-title="Hindi",Zee Action
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies" tvg-logo="" group-title="Bangla",Bangla Talkies
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV WORLD" tvg-logo="" group-title="Music",PTV WORLD
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="" group-title="Music",ZING
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="Bangla",Ruposhi Bangla
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet bangla" tvg-logo="http://hitectv.live/anytv/sangeetbangla.png" group-title="Music",Sangeet bangla
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movie plus / Bflix" tvg-logo="" group-title="Hindi",Movie plus / Bflix
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/97.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9x jhakaas" tvg-logo="" group-title="Music",9x jhakaas
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/99.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="And Pictures" tvg-logo="" group-title="Hindi",And Pictures
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="http://roarmediazone.com/tv/weblogo/123.jpg" group-title="Kolkata",Sony Aath
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="" group-title="Sports",T Sports
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mnx" tvg-logo="http://roarmediazone.com/tv/weblogo/20.jpg" group-title="Music",Mnx
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony MIX" tvg-logo="http://roarmediazone.com/tv/weblogo/18.jpg" group-title="Music",Sony MIX
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE Bollywood" tvg-logo="" group-title="Hindi",ZEE Bollywood
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9xo / 9x-jalwa" tvg-logo="" group-title="Music",9xo / 9x-jalwa
+http://tvserver3.roarzone.info:25461/live/gift/thanderbd.com/98.m3u8
 #EXTINF:-1,COLORS_HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_PLUS_HD
